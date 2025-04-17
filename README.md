@@ -1,0 +1,2 @@
+# Praktikum_Forward-Chaining_-_Backward_Chaining
+Praktikum_Forward
